@@ -23,7 +23,7 @@
         "@babel/traverse": "^7.15.4",
         "css-loader": "4.3.0",
         "enhanced-resolve": "^5.8.3",
-        "loader-utils": "2.0.0",
+        "loader-utils": "2.0.4",
         "sass": "1.32.2",
         "sass-loader": "^10.0.5",
         "semver": "7.3.2",
